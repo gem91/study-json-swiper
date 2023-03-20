@@ -36,6 +36,7 @@
   ],
   "dependencies": {
     "axios": "^0.27.2",
+    "i": "^0.3.7",
     "json-server": "^0.17.0",
     "lodash": "^4.17.21",
     "swiper": "^8.2.2"
